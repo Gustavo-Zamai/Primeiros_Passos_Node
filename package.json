@@ -1,0 +1,23 @@
+{
+  "name": "primeiros_passos_node",
+  "version": "1.0.0",
+  "description": "Projeto das minhas primeiras aulas com o NODE",
+  "main": "index.js",
+  "scripts": {
+    "main": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Zamai/Primeiros_Passos_Node.git"
+  },
+  "keywords": [
+    "javascript;node"
+  ],
+  "author": "Gustavo Zamai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Zamai/Primeiros_Passos_Node/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Zamai/Primeiros_Passos_Node#readme"
+}
